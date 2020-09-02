@@ -7,7 +7,7 @@
   "author": "Aria Stewart <aredridel@dinhe.net>",
   "license": "ISC",
   "dependencies": {
-    "bl": "^1.2.1",
+    "bl": "^4.0.3",
     "fastpath": "^2.1.0",
     "is-readable-stream": "^1.0.0",
     "is-writable-stream": "^1.0.0",
